@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "bot\\": "vendor/bot/core/",
+            "app\\": "app",
+            "api\\": "api"
+        }
+    },
+    "require": {
+        "irazasyed/telegram-bot-sdk": "^2.0",
+        "google/apiclient": "^2.0",
+        "vlucas/phpdotenv": "^5.2"
+    }
+}

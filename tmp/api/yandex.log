@@ -1,0 +1,33 @@
+Array
+(
+    [0] => Array
+        (
+        [login] => i-p-kulikov@drvrc.com
+        [kommentarijKDialogu] => Клиент назвал тА "Микрорайон 3Б, 10А" и тБ "Микрорайон 7А, 23В" - программа определяет данные адреса, затянул поиск /
+        )
+    [1] => Array
+        (
+        [login] => i-p-kulikov@drvrc.com
+        [kommentarijKDialogu] => не проговорил город/
+        )
+    [2] => Array
+        (
+        [login] => i-p-kulikov@drvrc.com
+        [kommentarijKDialogu] => 89518744323/вместо "приятных поездок" - "всего доброго"/
+        )
+    [3] => Array
+        (
+        [login] => i-p-kulikov@drvrc.com
+        [kommentarijKDialogu] => не проговорил город/
+        )
+    [4] => Array
+        (
+        [login] => i-p-kulikov@drvrc.com
+        [kommentarijKDialogu] => не проговорил город/
+        )
+    [5] => Array
+        (
+        [login] => i-p-kulikov@drvrc.com
+        [kommentarijKDialogu] => не проговорил город/
+        )
+)
